@@ -1,3 +1,3 @@
-# quete-git5
+# quete-git5 LOCAL
 
 Une phrase.
